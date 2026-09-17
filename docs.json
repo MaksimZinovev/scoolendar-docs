@@ -1,0 +1,47 @@
+{
+  "$schema": "https://docs.page/schema.json",
+  "name": "Scoolendar Help",
+  "description": "Help and documentation for Scoolendar - timetables, events and reports for homeschooling families",
+  "sidebar": [
+    {
+      "group": "Getting Started",
+      "pages": [
+        {
+          "title": "Welcome",
+          "href": "/",
+          "icon": "rocket"
+        },
+        {
+          "title": "Getting Started",
+          "href": "/getting-started",
+          "icon": "book"
+        }
+      ]
+    },
+    {
+      "group": "Features",
+      "pages": [
+        {
+          "title": "Events & Registration Reports",
+          "href": "/events-and-reports",
+          "icon": "calendar"
+        },
+        {
+          "title": "Community Connect",
+          "href": "/community-connect",
+          "icon": "users"
+        }
+      ]
+    },
+    {
+      "group": "Support",
+      "pages": [
+        {
+          "title": "FAQ",
+          "href": "/faq",
+          "icon": "help-circle"
+        }
+      ]
+    }
+  ]
+}
